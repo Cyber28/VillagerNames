@@ -1,0 +1,6 @@
+bin/
+obj/
+scripts/
+distribute.py
+VillagerNames.zip
+Villagernames.csproj.user

@@ -1,0 +1,9 @@
+{
+	"name": "VillagerNames",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Cyber28/VillagerNames",
+	"description": "Rename your villagers!",
+	"dependencies": [
+		"BepInEx-BepInExPack_Stacklands-5.4.2100"
+	]
+}
