@@ -7,7 +7,9 @@ Rename your villagers!
 ## Usage
 
 - Hover any villager card and press N
+
 ![Demo pic](https://cdn.discordapp.com/attachments/985852934212444170/1058471373451825233/image.png)
+
 ![Demo pic](https://cdn.discordapp.com/attachments/985852934212444170/1058471373758021692/image.png)
 
 ## Installation (manual)
