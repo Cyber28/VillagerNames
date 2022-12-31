@@ -33,7 +33,7 @@ plugins/
 
 This mod affects your save files minimally, it adds an ExtraData property to renamed villagers, which are easy to modify manually if something goes wrong
 
---
+---
 
 Special thanks to [lopidav](https://github.com/lopidav) for figuring out custom text inputs in modals before me and helping me fix some weird issues! 💜
 
